@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @knightneil
 - 👀 I’m interested in economics and mathematics, also computer science.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on econometric resarch
+- 💞️ I’m looking to collaborate on economics resarch
 - 📫 How to reach me: 498622129@qq.com
 
 <!---
